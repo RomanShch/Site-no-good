@@ -35,6 +35,7 @@ border: 1px solid rgb(189, 14, 251);
     line-height: -1px;
     letter-spacing: 0%;
     text-align: left;
+    padding-bottom: 16px;
 }
 
 .text__top{
@@ -45,9 +46,11 @@ border: 1px solid rgb(189, 14, 251);
     line-height: -1px;
     letter-spacing: 0%;
     text-align: left;
+    padding-bottom: 17px;
 }
 
 .button__first{
+   
     box-sizing: border-box;
 border: 1px solid rgb(255, 29, 164);
     border-radius: 50px;
@@ -67,6 +70,13 @@ background: rgb(242, 88, 34);
 
 
 .top__logos{
+    padding-top: 53px;
     box-sizing: border-box;
 border: 1px solid rgb(25, 251, 251);
+}
+
+.img__logos{
+    padding-top: 59px;
+    padding-bottom: 49px;
+    
 }
